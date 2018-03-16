@@ -5,7 +5,7 @@
   - If a number is divisible by 5, write buzz instead of the number
   - If a number is divisible by 3 and 5, write fizzbuzz instead of the number
 
-- Constraints:
+- Constraints (choose one):
   - Lazy Programmer: Determine one person to only write tests and one person to only write "production" code.
     1. The tester writes a test that fails
     2. The programmer writes as little as possible to make the test pass
@@ -18,3 +18,8 @@
     5. Start a 1. again.
     If the timer rings before you commit, you have to reset (git reset --hard)
     and start again.
+
+- Additional challenges (optional):
+  - No functions longer than a single line
+  - No `if` statements
+  - No loops
